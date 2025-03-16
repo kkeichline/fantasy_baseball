@@ -106,7 +106,7 @@ FEATURES = [
     "whip",
     "k_9",
     "bb_9",
-    "hr_9",
+    "hr9",
     "fip",
     "xfip",
     "war",
