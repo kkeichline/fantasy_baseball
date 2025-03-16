@@ -75,7 +75,7 @@ SCALER = None
 FEATURES = [
     'avg', 'obp', 'slg', 'ops', 'hr', 'r', 'rbi', 'sb', 
     'k_rate', 'bb_rate', 'babip', 'iso', 'wrc_plus',
-    'era', 'whip', 'k_9', 'bb_9', 'hr_9', 'fip', 'xfip', 'war'
+    'era', 'whip', 'k_9', 'bb_9', 'hr9', 'fip', 'xfip', 'war'
 ]
 
 # Load model
