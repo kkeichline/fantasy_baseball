@@ -1,0 +1,13 @@
+[project]
+name = "fantasy-baseball"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.8"
+dependencies = [
+    "fastapi>=0.115.11",
+    "numpy>=2.2.4",
+    "pandas>=2.2.3",
+    "pydantic>=2.10.6",
+    "scikit-learn>=1.6.1",
+]

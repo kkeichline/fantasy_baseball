@@ -1,0 +1,8 @@
+/raw_data
+.ruff_cache
+.venv
+/model
+uv.lock
+.vscode
+.python-version
+__pycache__
